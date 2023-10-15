@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Computer Science and Game Development at Northeastern!
 - 👯 I’m looking to collaborate on game jams!
 - 🤔 I’m looking for help with programming
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him!
 
 -->
